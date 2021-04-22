@@ -1,7 +1,6 @@
 ---
 title: "036 - Coded Bias: Machine Learning Gone Wrong"
 date: 2021-04-12T09:46:58-07:00
-draft: true
 ---
 As innovation advances, regulating technology becomes a challenge. In the documentary, Coded Bias, we follow the store of Joy Buolamwini as she discovers that there's an inherent bias in the data used to train AI algorithms. This takes us to a deeper conversation of how these algorithms are being used and where.
 
@@ -38,19 +37,5 @@ Timestamps created with https://clips.marketing by @cgenco
 ## Show Notes
 Power Creep: https://en.wiktionary.org/wiki/power_creep
 
----
-Socials: https://linktr.ee/pubstomp
-
-🎵 Music 🎵
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
-
-🎨 Art 🎨
-Logo by @_jackson_draws https://www.instagram.com/_jackson_draws/
+## Credits
+{{< podcast-footer >}}

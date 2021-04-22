@@ -1,7 +1,6 @@
 ---
-title: Episode 10 - Mushuless
+title: 010 - Mushuless
 date: 2020-05-01
-draft: true
 ---
 At last the movie we were waiting for in anticipation is here, but did it meet our expectations?
 
@@ -37,21 +36,5 @@ Dune Novel: https://en.wikipedia.org/wiki/Dune_(novel)
 Denis Villeneuve: https://en.wikipedia.org/wiki/Denis_Villeneuve
 Mulan Chinese: https://en.wikipedia.org/wiki/Mulan_(2009_film)
 
-In This Episode:
-Trigoman - @jvtrigueros
-Mexy - @soy_mexy
-TyFighter - @TyFigh7er
-
-Intro/Outro Credits:
-
-Intro
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Outro
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
+## Credits
+{{< podcast-footer >}}

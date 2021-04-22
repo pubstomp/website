@@ -1,7 +1,6 @@
 ---
 title: "035 - Godzilla vs Kong Godzilla Is King"
 date: 2021-04-04T10:57:19-07:00
-draft: true
 ---
 In 2014, the MonsterVerse was rebooted with the film Godzilla, followed by Kong: Skull Island (2017), and Godzilla: King of Monsters (2019). It is now 2021, and we now have Godzilla vs. Kong, and it is just what you'd expect, two Titans battling it out for the title of King!
 
@@ -38,23 +37,9 @@ Join us as we take a light hearted approach at reviewing this movie. We poke fun
 
 Timestamps created with https://clips.marketing by @cgenco
 
-05:37-8:30
 Mighty Joe Young: https://en.wikipedia.org/wiki/Mighty_Joe_Young_(1998_film)
 GRIS Gameplay: https://www.youtube.com/watch?v=pA8Os-ZBi5o&list=PLLfSE3W7iJKYDcqptkBNX5xyoTHkoi1I1
 Bloodline: https://en.wikipedia.org/wiki/Bloodline_(TV_series) 
 
-Socials: https://linktr.ee/pubstomp
-
-🎵 Music 🎵
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
-
-🎨 Art 🎨
-Logo by @_jackson_draws https://www.instagram.com/_jackson_draws/
+## Credits
+{{< podcast-footer >}}

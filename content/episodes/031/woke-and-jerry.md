@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Tom and Jerry is a classic cartoon that revolves around the rivalry between a cat, Tom, and a mouse, Jerry. The hybrid movie Tom & Jerry: The Movie has been released and the team has some thoughts on this. The expectations were met :)
 
 00:00 Intro

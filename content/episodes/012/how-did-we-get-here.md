@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 trigoman and Mexy take a moment to look back, and talk about what sparked all this up, what were some lessons learned about previous endeavours, and where do they see Pubstomp Media going in the future.
 
 This is a relaxed episode, so sit back and enjoy the trip to memory lane!

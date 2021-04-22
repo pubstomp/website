@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # 034 - SnyderCut: #RestoreTheSnyderverse
 In 2017, the film Justice League appeared on the big screen and... it was poorly received. This was an attempt to bring the DC universe together into a much bigger vision, but unlike the Marvel Cinematic Universe, it just didn't connect with the audience.
 

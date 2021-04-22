@@ -1,7 +1,6 @@
 ---
 title: "037 - Mortal Kombat: 1995"
 date: 2021-04-19T08:05:12-07:00
-draft: true
 ---
 In anticipation for Mortal Kombat (2021), we have started going back down to memory lane and revisiting the old Mortal Kombat movies, starting with the original -- Mortal Kombat (1995). There's not much in the way of plot, but oh the cheese is there and the jokes still land the same way as they did in 1995. Join us as we discuss this movie 
 
