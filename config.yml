@@ -54,6 +54,9 @@ params:
     preload: metadata       # Set on the HTML5 audio tag, defaults to "metadata".
 
 markup:
+  tableOfContents:
+    endLevel: 4
+    startLevel: 1
   goldmark:
     renderer:
       hardWraps: true
