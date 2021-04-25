@@ -1,4 +1,4 @@
-baseurl: "https://pubstomp-media.pages.dev/"
+baseurl: "https://pubstomp.github.io/website/"
 title: "Pumstomp Media"
 theme: "zen"
 languageCode: "en-us"       # Set your language code (only needed for none multilingual sites).
@@ -17,7 +17,7 @@ params:
   icon: ""                  # Relative path to icon in json feed and JSON-LD, no leading slash.
   image: ""                 # Relative path to site image in JSON-LD, no leading slash.
   imageMaxWidth: ""         # Max width for images added via figure shortcode.
-  jquery: true              # Add jQuery
+  jquery: false             # Add jQuery
   languageDir: "ltr"        # Set ltr or rtl, defaults to ltr.
   logo: true                # Turn off the logo.
   mainSections:             # The sections you want to have listed on the front page.
