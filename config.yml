@@ -1,5 +1,5 @@
-baseurl: "https://pubstomp.github.io/website/"
-title: "Pumstomp Media"
+baseurl: "https://pubstomp.media/"
+title: "Pubstomp Media"
 theme: "zen"
 languageCode: "en-us"       # Set your language code (only needed for none multilingual sites).
 
