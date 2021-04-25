@@ -3,6 +3,7 @@ title: 032 - Raya and the Best Dragon
 date: 2021-03-19
 ---
 The animated film, Raya and the Last Dragon, had us feeling excited, sad, angry, and, at times, conflicted. Join us as we discuss the great movie!
+<!--more-->
 
 ## Timestamp
 00:00 Intro

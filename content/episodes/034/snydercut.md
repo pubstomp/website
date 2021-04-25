@@ -9,6 +9,7 @@ Originally, the Justice League was directed by Zack Snyder, but due to some mish
 In 2020, HBO came to the rescue and announced that the Snyder's Cut would be released in their streaming platform. So here we are at last! A FOUR hour experience with the original vision of Zack Snyder.
 
 Join us as we discuss the nitty gritty details and compare against the original Justice League.
+<!--more-->
 
 ## Timestamps
 00:00 Intro

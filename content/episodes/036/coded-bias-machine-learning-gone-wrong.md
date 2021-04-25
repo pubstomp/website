@@ -5,6 +5,7 @@ date: 2021-04-12T09:46:58-07:00
 As innovation advances, regulating technology becomes a challenge. In the documentary, Coded Bias, we follow the store of Joy Buolamwini as she discovers that there's an inherent bias in the data used to train AI algorithms. This takes us to a deeper conversation of how these algorithms are being used and where.
 
 When we think about it, we can see that these types of technology advancements can put some people at a disadvantage, further setting them apart. The Pubstomp team reflects on this and discuss their own encounters with erroneous AI in the wild.
+<!--more-->
 
 ## Timestamps
 00:00 Intro

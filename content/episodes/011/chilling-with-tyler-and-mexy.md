@@ -5,6 +5,7 @@ date: 2020-09-23
 As summer comes to an end, the gang takes it easy in this episode. There's some discussion on the next gen consoles, as well as the shows that we're currently watching. Tune in to find out!
 
 Wax on, wax off!
+<!--more-->
 
 ## Timestamps
 00:00 Intro
