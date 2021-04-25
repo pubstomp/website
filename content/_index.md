@@ -4,7 +4,7 @@ title: A collection of Pubstomp Media content
 
 ## Welcome to Pubstomp Media!
 
-This is the home of a collection of content produced by Pumstomp Media, come join our shenanigans.
+This is the home of a collection of content produced by Pubstomp Media, come join our shenanigans.
 
 ### Pubstomp Podcast
 
