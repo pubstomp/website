@@ -1,11 +1,12 @@
 ---
 title: 010 - Mushuless
-date: 2020-05-01
+date: 2020-09-17
 ---
 At last the movie we were waiting for in anticipation is here, but did it meet our expectations?
 
 Tune in to hear our opinionated discussion about Disney's Mulan (2020), we touch on some of the differences between the animated movie, movie direction, and the cast.
 
+## Timestamps
 00:00 Intro
 01:20 California Forest Fires
 05:00 Dune Trailer
@@ -27,9 +28,9 @@ Tune in to hear our opinionated discussion about Disney's Mulan (2020), we touch
 35:30 Offscreen dragon?
 36:50 The lover, the lake, and sexual tension
 42:00 Closing thoughts...and more ranting
-51:15 Outro 
+51:15 Outro
 
-Show Notes:
+## Show Notes
 Gender Reveal Party: https://www.nytimes.com/2020/09/07/us/gender-reveal-party-wildfire.html
 Dune 2020 Trailer: https://www.youtube.com/watch?v=n9xhJrPXop4
 Dune Novel: https://en.wikipedia.org/wiki/Dune_(novel)

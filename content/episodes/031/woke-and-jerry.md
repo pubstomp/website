@@ -1,9 +1,10 @@
 ---
-draft: true
+title: 031 - Woke and Jerry
+date: 2021-03-12
 ---
-
 Tom and Jerry is a classic cartoon that revolves around the rivalry between a cat, Tom, and a mouse, Jerry. The hybrid movie Tom & Jerry: The Movie has been released and the team has some thoughts on this. The expectations were met :)
 
+## Timestamps
 00:00 Intro
 01:02 Elon Musk's Rocket
 05:01 Texas Opens 100%
@@ -24,30 +25,9 @@ Tom and Jerry is a classic cartoon that revolves around the rivalry between a ca
 
 Timestamps created with https://clips.marketing by @cgenco
 
-**Show Notes**
+## Show Notes
 SpaceX Launch: https://www.space.com/spacex-starship-sn10-test-launch-landing-explosion
 Tom and Jerry (2021): https://www.imdb.com/title/tt1361336/
 
-
-**In This Episode**
-trigoman - @jvtrigueros
-Mexy - @soy_mexy
-Tyler - @TyFigh7er
-
-**Credits**
-
-Intro
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Outro
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
-
-Art
-Logo by @_jackson_draws https://www.instagram.com/_jackson_draws/
-
+## Credits
+{{< podcast-footer >}}

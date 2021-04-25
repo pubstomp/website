@@ -1,7 +1,10 @@
 ---
-draft: true
+title: 032 - Raya and the Best Dragon
+date: 2021-03-19
 ---
+The animated film, Raya and the Last Dragon, had us feeling excited, sad, angry, and, at times, conflicted. Join us as we discuss the great movie!
 
+## Timestamp
 00:00 Intro
 00:58 Snyder's Cut instead of Tom and Jerry
 04:46 Raya Roundtable
@@ -25,28 +28,8 @@ draft: true
 
 Timestamps created with https://clips.marketing by @cgenco
 
-**Show Notes**
+## Show Notes
+Raya and the Last Dragon: https://www.imdb.com/title/tt5109280/
 
-
-**In This Episode**
-trigoman - @jvtrigueros
-Mexy - @soy_mexy
-Tyler - @TyFigh7er
-
-**Credits**
-
-Intro
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Outro
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
-
-Art
-Logo by @_jackson_draws https://www.instagram.com/_jackson_draws/
-
+## Credits
+{{< podcast-footer >}}

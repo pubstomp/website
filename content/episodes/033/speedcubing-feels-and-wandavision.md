@@ -1,11 +1,12 @@
 ---
-draft: true
+title: Speedcubers, Feels, and WandaVision
+date: 2021-03-26
 ---
-
 Like everybody else out there, we watched WandaVision episode by episode, week after week, and finally, we're here! Today we take a deep dive into the world of WandaVision, discuss the characters and their symbolism digging back to their first appearances in other movies like The Avengers: Age of Ultron. Some of us haven't seen all of these movies so we fill in the gaps where needed, so if you watched WandaVision but some things didn't make sense, well you're in luck, we gotchu!
 
 Make sure to stick til the end to catch a full backstory on why is that the MCU is the way it is!
 
+## Timestamps
 00:00 Intro
 01:08 Fight fight fight fight!
 01:29 Pubstomp Short: Speed cubers
@@ -28,28 +29,8 @@ Make sure to stick til the end to catch a full backstory on why is that the MCU 
 
 Timestamps created with https://clips.marketing by @cgenco
 
-**Show Notes**
+## Show Notes
 Machine Gun Kelly ft. CORPSE - DAYWALKER!: https://www.youtube.com/watch?v=nSBYIzaxijM 
 
-**In This Episode**
-trigoman - @jvtrigueros
-Mexy - @soy_mexy
-Tyler - @TyFigh7er
-
-**Credits**
-
-Intro
-Song: Hit That Yeet - Reflekt & Ben Lepper
-Music provided by Ninety9Lives
-Video: https://youtu.be/YKe61EArDjY
-Download: http://99l.tv/hitthatyeetYU
-
-Outro
-Song: Masquerade (feat. Noctilucent) - Finesu
-Music provided by Ninety9Lives
-Video: https://youtu.be/OU-VebwK_tI
-Download: http://99l.tv/masqueradeYU
-
-Art
-Logo by @_jackson_draws https://www.instagram.com/_jackson_draws/
-
+## Credits
+{{< podcast-footer >}}

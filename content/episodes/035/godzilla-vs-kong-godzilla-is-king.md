@@ -6,7 +6,7 @@ In 2014, the MonsterVerse was rebooted with the film Godzilla, followed by Kong:
 
 Join us as we take a light hearted approach at reviewing this movie. We poke fun at some of the plot holes but give credit where credit is due. Ultimately, this is a must watch, so if you haven't seen it yet, pause, go watch it, then come back and join us!
 
-
+## Timestamps
 00:00 Intro
 01:02 The Falcon and the Winter Soldier Episode 2
 05:37 Reserving out a WHOLE movie theater room
@@ -37,6 +37,7 @@ Join us as we take a light hearted approach at reviewing this movie. We poke fun
 
 Timestamps created with https://clips.marketing by @cgenco
 
+## Show Notes
 Mighty Joe Young: https://en.wikipedia.org/wiki/Mighty_Joe_Young_(1998_film)
 GRIS Gameplay: https://www.youtube.com/watch?v=pA8Os-ZBi5o&list=PLLfSE3W7iJKYDcqptkBNX5xyoTHkoi1I1
 Bloodline: https://en.wikipedia.org/wiki/Bloodline_(TV_series) 
