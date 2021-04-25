@@ -3,10 +3,12 @@ title: "Pumstomp Media"
 theme: "zen"
 languageCode: "en-us"       # Set your language code (only needed for none multilingual sites).
 
+enableEmoji: true
+
 params:
   cookieConsent: false      # Show cookie consent form, default false.
   contact: "pubstompentertainment@gmail.com"
-  copyright: "Made with 🍺 & ❤"
+  copyright: "Made with 🍺 & ❤️"
   dateformat: ""            # Set the date format, default to "2 January, 2006"
   description: ""           # Set site description, used in meta tags and JSON-LD
   favicon: ""               # Relative path to favicon in json feed, no leading slash.
@@ -19,13 +21,13 @@ params:
   languageDir: "ltr"        # Set ltr or rtl, defaults to ltr.
   logo: true                # Turn off the logo.
   mainSections:             # The sections you want to have listed on the front page.
-    - "section1"            # Default to the section with most content if not set.
+    - "episodes"            # Default to the section with most content if not set.
     - "section2"            # Set to empty if no section should be listed.
   mobileMenu: true          # Turn on a mobile menu on small screens.
   poweredby: true           # Show powered by hugo in footer
   privacyPolicyUrl: ""      # If set will add link to cookie consent form.
 
-  realfavicongenerator:     # If full set of favicons, site manifest etc. exists, default false.
+  realfavicongenerator: true # If full set of favicons, site manifest etc. exists, default false.
   relatedposts: true        # Show related posts under a "See also" section, default false.
   searchLimit: 20           # Max number of search hits, default 20.
   sidebar: true             # Show a sidebar to the right
