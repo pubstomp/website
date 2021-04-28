@@ -1,11 +1,13 @@
 ---
-title: Speedcubers, Feels, and WandaVision
+title: 033 - Speedcubing, Feels, and WandaVision
 date: 2021-03-26
 ---
-Like everybody else out there, we watched WandaVision episode by episode, week after week, and finally, we're here! Today we take a deep dive into the world of WandaVision, discuss the characters and their symbolism digging back to their first appearances in other movies like The Avengers: Age of Ultron. Some of us haven't seen all of these movies so we fill in the gaps where needed, so if you watched WandaVision but some things didn't make sense, well you're in luck, we gotchu!
+{{< anchor 033 >}}
+Like everybody else out there, we watched WandaVision episode by episode, week after week, and finally, we're here! Today we take a deep dive into the world of WandaVision, discuss the characters and their symbolism digging back to their first appearances in other movies like The Avengers: Age of Ultron.
+<!--more-->
+Some of us haven't seen all of these movies so we fill in the gaps where needed, so if you watched WandaVision but some things didn't make sense, well you're in luck, we gotchu!
 
 Make sure to stick til the end to catch a full backstory on why is that the MCU is the way it is!
-<!--more-->
 
 ## Timestamps
 00:00 Intro

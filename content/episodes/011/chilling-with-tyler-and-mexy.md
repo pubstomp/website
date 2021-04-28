@@ -2,6 +2,7 @@
 title: 011 - Chilling with Tyler and mexy
 date: 2020-09-23
 ---
+{{< anchor 011 >}}
 As summer comes to an end, the gang takes it easy in this episode. There's some discussion on the next gen consoles, as well as the shows that we're currently watching. Tune in to find out!
 
 Wax on, wax off!

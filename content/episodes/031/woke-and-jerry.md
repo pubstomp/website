@@ -2,6 +2,7 @@
 title: 031 - Woke and Jerry
 date: 2021-03-12
 ---
+{{< anchor 031 >}}
 Tom and Jerry is a classic cartoon that revolves around the rivalry between a cat, Tom, and a mouse, Jerry. The hybrid movie Tom & Jerry: The Movie has been released and the team has some thoughts on this. The expectations were met :)
 <!--more-->
 

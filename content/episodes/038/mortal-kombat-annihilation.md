@@ -2,8 +2,10 @@
 title: "038 - Mortal Kombat: Annihilation"
 date: 2021-04-26
 ---
-Continuing our preparation for Mortal Kombat (2021), we took on Mortal Kombat: Annihilation, and, boy, do we have some thoughts about this movie. This movie gives you an appreciation for how far the film industry has gone in terms of CGI and plot development. If you decide to watch this movie, treat it as a study instead of something you'd watch for enjoyment. Perhaps, this movie is a product of it's time, but more than likely, it was just poorly executed. Anyway, join us as we discuss this movie!
+{{< anchor 038 >}}
+Continuing our preparation for Mortal Kombat (2021), we took on Mortal Kombat: Annihilation, and, boy, do we have some thoughts about this movie. This movie gives you an appreciation for how far the film industry has gone in terms of CGI and plot development.
 <!--more-->
+If you decide to watch this movie, treat it as a study instead of something you'd watch for enjoyment. Perhaps, this movie is a product of it's time, but more than likely, it was just poorly executed. Anyway, join us as we discuss this movie!
 
 ## Timestamps
 00:00 Intro

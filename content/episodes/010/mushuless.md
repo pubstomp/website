@@ -2,6 +2,7 @@
 title: 010 - Mushuless
 date: 2020-09-17
 ---
+{{< anchor 010 >}}
 At last the movie we were waiting for in anticipation is here, but did it meet our expectations?
 
 Tune in to hear our opinionated discussion about Disney's Mulan (2020), we touch on some of the differences between the animated movie, movie direction, and the cast.
