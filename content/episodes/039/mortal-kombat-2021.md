@@ -17,8 +17,8 @@ At last, Mortal Kombat 2021 is here! Is it all we ever wanted? Should you put ev
 14:55 Kano!!!
 16:51 Reptile's Fight Scene
 19:06 Arcana is how they explain their powers
-19:55 The new Lui Kang is a little boy
-21:15 Lui Kang and Kung Lao speak perfect Chinese
+19:55 The new Liu Kang is a little boy
+21:15 Liu Kang and Kung Lao speak perfect Chinese
 22:20 Kung Lao's Fatality did NOT hold back!
 25:24 Introducing Raiden, the protector of the Earth Realm
 29:33 The almighty Goro is short lived!
