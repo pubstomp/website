@@ -22,7 +22,7 @@ params:
   logo: true                # Turn off the logo.
   mainSections:             # The sections you want to have listed on the front page.
     - "episodes"            # Default to the section with most content if not set.
-    - "section2"            # Set to empty if no section should be listed.
+    - "last-call"            # Set to empty if no section should be listed.
   mobileMenu: true          # Turn on a mobile menu on small screens.
   poweredby: true           # Show powered by hugo in footer
   privacyPolicyUrl: ""      # If set will add link to cookie consent form.
