@@ -1,9 +1,9 @@
 ---
-title: "{{ path.Base .File.Dir }} - {{ replace .Name "-" " " | title }}"
+title: "{{ .Name }} - <Title>"
 date: {{ .Date }}
 draft: true
 ---
-{{< anchor {{ path.Base .File.Dir }} >}}
+{{< anchor {{ .Name }} >}}
 <!--more-->
 
 ## Timestamps
