@@ -1,4 +1,4 @@
-Socials: https://linktr.ee/pubstomp
+Socials: https://bio.link/pubstomp
 
 🎵 Music 🎵
 Song: Hit That Yeet - Reflekt & Ben Lepper
