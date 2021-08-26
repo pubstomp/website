@@ -41,7 +41,7 @@ params:
     category:
       name:                 # * Feed category (iTunes).
       subcategories: []     # Feed sub category (iTunes).
-    explicit: false/true    # Feed explicit settting, default to false (iTunes).
+    explicit: false/true    # Feed explicit setting, default to false (iTunes).
     author:                 # Feed author (iTunes).
     owner:
       name:                 # Feed owner name (iTunes).
